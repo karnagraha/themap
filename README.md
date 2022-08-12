@@ -1,5 +1,9 @@
 # themap
 
+
+puppy/
+  contains pictures of a puppy and various modifiers, all with the same seed.
+
 style links:
 
 https://rexwang8.github.io/resource/ai/teapot
